@@ -1,0 +1,18 @@
+{
+  "movies": [
+    {
+      "id": 0,
+      "title": "Titanic",
+      "description": "Description",
+      "director": "Cameroon",
+      "actors": []
+    },
+    {
+      "id": 1,
+      "title": "Shrek 2",
+      "description": "Description shrek",
+      "director": "Director",
+      "actors": []
+    }
+  ]
+}
