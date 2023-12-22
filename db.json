@@ -3,16 +3,16 @@
     {
       "id": 0,
       "title": "Titanic",
-      "description": "Description",
-      "director": "Cameroon",
-      "actors": []
+      "description": "Rose, who is being forced to marry a wealthy man, falls in love with Jack, a talented artist, aboard the unsinkable Titanic. Unfortunately, the ship hits an iceberg, endangering their lives.",
+      "director": "James Cameron",
+      "actors": [ "Kate Winslet", "Leonardi DiCaprio" ]
     },
     {
       "id": 1,
       "title": "Shrek 2",
-      "description": "Description shrek",
-      "director": "Director",
-      "actors": []
+      "description": "When Shrek and Fiona return from their honeymoon, her parents, the rulers of Far Far Away, invite them over. But as the king does not like Shrek, he enlists a fairy to keep him away from his daughter.",
+      "director": "Andrew Adamson",
+      "actors": [ "Mike Myers", "Eddie Murphy" ]
     }
   ]
 }
